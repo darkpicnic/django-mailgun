@@ -1,8 +1,8 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(
     name='django-mailgun',
-    version='1.0',
+    version='1.0.0',
     packages=['mailgun'],
     license='Creative Commons Attribution-Noncommercial-Share Alike license',
     description="A Django wrapper for the Mailgun API",
