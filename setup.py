@@ -16,7 +16,7 @@ setup(
     description = "Django wrapper for Mailgun API",
     license = "BSD",
     keywords = "django mailgun",
-    url = "http://packages.python.org/",
+    url = "https://github.com/darkpicnic/django-mailgun",
     packages=['mailgun'],
     long_description=read('README'),
     install_requires=[
