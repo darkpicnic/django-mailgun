@@ -1,4 +1,8 @@
 django-mailgun
 ==============
 
-A django wrapper for the mailgun python api
+A django wrapper for the mailgun python api.
+
+Dependencies:
+Requests
+
